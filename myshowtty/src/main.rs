@@ -33,7 +33,6 @@ fn main() {
             println!("The erase character is ascii {}, Ctrl - {}", termios.c_cc[VERASE], (termios.c_cc[VERASE] -1 + ('A' as u8)) as char);
             println!("The line kill character is ascii {}, Ctrl - {}", termios.c_cc[VKILL], (termios.c_cc[VKILL] -1 + ('A' as u8)) as char);
             show_some_flags(&termios);
-
         },
         Err(e) =>{
             eprintln!("{}", e);
