@@ -1,0 +1,9 @@
+[package]
+name = "bounce_aio"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ncurses = "5.101.0"
+libc = "0.2.168"
+nix = "0.29.0"

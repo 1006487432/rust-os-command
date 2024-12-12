@@ -2,16 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mycp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/myechostate" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/myfileinfo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mylogout" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/myls" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mymore" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mypwd" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mysetecho" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/myshowtty" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mywho" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mywrite" vcs="Git" />
   </component>
 </project>
